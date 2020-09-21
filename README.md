@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 - :raised_hand: I’m looking for any individuals to share thier ideas for any collab.
 - :muscle: Ask me about Linux, DevOps, RPA, SDLC, Bash Scripting, Python, Java and Cloud.  
 - :point_right: Reach me at:
-      :email: rishwanthrajaa@gmail.com
-      :facebook: @rishwanth.rajaa
-      :linkedin: @rishwanthrajaa
-      :iphone: 9789390332   
+-      :email: rishwanthrajaa@gmail.com
+      
+-      :iphone: 9789390332   
 
 
 - ⚡ Other facts...
