@@ -12,4 +12,5 @@
 - :point_right: Reach me at:       :email: rishwanthrajaa@gmail.com    |   :iphone: +91 9789390332   
 
 
+- Get to know more about Git Emojis at https://github.com/rishwanthrajaa/git-emojis/blob/master/gistfile1.md
 
